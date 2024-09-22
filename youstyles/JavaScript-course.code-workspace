@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../msys64"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "msys64"
+	}
+}
